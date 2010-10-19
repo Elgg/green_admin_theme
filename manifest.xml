@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Curverider" />
+	<field key="version" value="1.0" />
+	<field key="description" value="Admin layout" />
+	<field key="website" value="http://www.elgg.org/" />
+	<field key="copyright" value="(C) Curverider 2008-2010" />
+	<field key="licence" value="GNU Public License version 2 and the MIT license" />
+	<field key="elgg_install_state" value="enabled" />
+	<field key="admin_interface" value="advanced" />
+</plugin_manifest>
